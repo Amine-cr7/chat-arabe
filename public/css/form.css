@@ -1,0 +1,14 @@
+.chat-box {
+    max-height: 500px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+  }
+  .chat-message {
+    margin-bottom: 15px;
+  }
+  .message-sent {
+    text-align: right;
+  }
+  .message-received {
+    text-align: left;
+  }
